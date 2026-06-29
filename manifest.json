@@ -1,0 +1,27 @@
+{
+  "name": "Dog Toy Bank",
+  "short_name": "DogToyBank",
+  "description": "Dog Toy Bank places small weatherproof boxes of free dog toys in dog-friendly places.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFFDF7",
+  "theme_color": "#1B4FD8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
